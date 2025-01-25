@@ -1,0 +1,7 @@
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\hasan\source\repos\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
